@@ -14,7 +14,6 @@ This project focuses on clean UI design, smooth user experience, and scalable fr
 - 📱 Fully responsive and user-friendly design
 
 ## 🛠️ Tech Stack
-
 - ⚛️ React.js
 - 🧠 JavaScript (ES6+)
 - 🎨 CSS
@@ -23,31 +22,22 @@ This project focuses on clean UI design, smooth user experience, and scalable fr
 - 🧭 React Router *(planned)*
 
 ## 📥 Clone the Repository
-
-```bash
 git clone https://github.com/MadhanBabuUradi/shopping-hub-frontend.git
 cd shopping-hub-frontend
-'''
-
 
 ## 📦 Installation
 npm install
 
-▶️ Run the Application
+## ▶️ Run the Application
 npm start
 
-🧪 Build for Production (Optional)
+## 🧪 Build for Production (Optional)
 npm run build
 
 ## 📌 Future Enhancements
-
-🔗 Backend integration using Spring Boot
-
-🔐 User authentication and authorization
-
-💾 Persistent cart using database
-
-📑 Order management system
-
-💳 Payment gateway integration
+- 🔗 Backend integration using Spring Boot
+- 🔐 User authentication and authorization
+- 💾 Persistent cart using database
+- 📑 Order management system
+- 💳 Payment gateway integration
 
