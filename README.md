@@ -1,10 +1,9 @@
 # 🛍️ Shopping-HUB Frontend
 
-A modern and responsive **e-commerce frontend application** built using **React.js**.  
-This project focuses on clean UI design, smooth user experience, and scalable frontend architecture.
+A modern and responsive **e-commerce frontend application** built with React.js.  
+Focuses on clean UI design, smooth user experience, and scalable frontend architecture.
 
 ## 🚀 Features
-
 - 🛒 Product listing with categories and search
 - ⭐ Featured products and promotional sections
 - ➕➖ Shopping cart with quantity management
@@ -18,8 +17,8 @@ This project focuses on clean UI design, smooth user experience, and scalable fr
 - 🧠 JavaScript (ES6+)
 - 🎨 CSS
 - 🪝 React Hooks
-- 🌐 Context API *(planned)*
-- 🧭 React Router *(planned)*
+- 🌐 Context API 
+- 🧭 React Router 
 
 ## 📥 Clone the Repository
 [git clone https://github.com/MadhanBabuUradi/shopping-hub-frontend.git
