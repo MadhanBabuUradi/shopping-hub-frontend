@@ -28,3 +28,24 @@ This project focuses on clean UI design, smooth user experience, and scalable fr
 git clone https://github.com/MadhanBabuUradi/shopping-hub-frontend.git
 cd shopping-hub-frontend
 
+## 📦 Installation
+npm install
+
+▶️ Run the Application
+npm start
+
+🧪 Build for Production (Optional)
+npm run build
+
+## 📌 Future Enhancements
+
+🔗 Backend integration using Spring Boot
+
+🔐 User authentication and authorization
+
+💾 Persistent cart using database
+
+📑 Order management system
+
+💳 Payment gateway integration
+
