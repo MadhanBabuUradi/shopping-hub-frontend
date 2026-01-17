@@ -27,13 +27,13 @@ cd shopping-hub-frontend](https://github.com/MadhanBabuUradi/shopping-hub-fronte
 ## 📦 Installation
 npm install
 
-## ▶️ Run the Application
+▶️ **Run the Application**
 npm start
 
-## 🧪 Build for Production (Optional)
+🧪 **Build for Production**
 npm run build
 
-## 📌 Future Enhancements
+📌 **Future Enhancements**
 - 🔗 Backend integration using Spring Boot
 - 🔐 User authentication and authorization
 - 💾 Persistent cart using database
