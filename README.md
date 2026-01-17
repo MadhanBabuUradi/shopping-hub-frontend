@@ -22,4 +22,9 @@ This project focuses on clean UI design, smooth user experience, and scalable fr
 - 🌐 Context API *(planned)*
 - 🧭 React Router *(planned)*
 
+## 📥 Clone the Repository
+
+```bash
+git clone https://github.com/MadhanBabuUradi/shopping-hub-frontend.git
+cd shopping-hub-frontend
 
