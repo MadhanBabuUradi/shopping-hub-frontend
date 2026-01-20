@@ -3,7 +3,7 @@
 A modern and responsive **e-commerce frontend application** built with React.js.  
 Focuses on clean UI design, smooth user experience, and scalable frontend architecture.
 
-## 🚀 Features
+🚀 **Features**
 - 🛒 Product listing with categories and search
 - ⭐ Featured products and promotional sections
 - ➕➖ Shopping cart with quantity management
@@ -12,7 +12,7 @@ Focuses on clean UI design, smooth user experience, and scalable frontend archit
 - 🔔 Notifications and loading skeletons
 - 📱 Fully responsive and user-friendly design
 
-## 🛠️ Tech Stack
+🛠️ **Tech Stack**
 - ⚛️ React.js
 - 🧠 JavaScript (ES6+)
 - 🎨 CSS
@@ -20,11 +20,11 @@ Focuses on clean UI design, smooth user experience, and scalable frontend archit
 - 🌐 Context API 
 - 🧭 React Router 
 
-## 📥 Clone the Repository
+📥 **Clone the Repository**
 [git clone https://github.com/MadhanBabuUradi/shopping-hub-frontend.git
 cd shopping-hub-frontend](https://github.com/MadhanBabuUradi/shopping-hub-frontend.git)
 
-## 📦 Installation
+📦 **Installation**
 npm install
 
 ▶️ **Run the Application**
