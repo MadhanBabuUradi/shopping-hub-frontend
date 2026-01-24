@@ -1,6 +1,6 @@
 # 🛍️ Shopping-HUB Frontend
 
-A modern and responsive *e-commerce frontend application* built with React.js.  
+A modern and responsive e-commerce frontend application built with React.js.  
 Focuses on clean UI design, smooth user experience, and scalable frontend architecture.
 
 🚀 **Features**
