@@ -45,7 +45,7 @@ npm run build
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 🤝 **Contributing**  
-Contributions are welcome! Please fork the repository and submit a pull request for improvements or bug fixes.
+**Contributions are welcome! Please fork the repository and submit a pull request for improvements or bug fixes.**
 
 🎨 **Acknowledgements**  
 - React.js Documentation  
