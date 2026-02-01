@@ -21,9 +21,10 @@ Focuses on clean UI design, smooth user experience, and scalable frontend archit
 - 🧭 React Router 
 
 📥 **Clone the Repository**
+```bash
 [git clone https://github.com/MadhanBabuUradi/shopping-hub-frontend.git
 cd shopping-hub-frontend](https://github.com/MadhanBabuUradi/shopping-hub-frontend.git)
-
+```
 📦 **Installation**
 npm install
 
