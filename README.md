@@ -30,11 +30,13 @@ cd shopping-hub-frontend](https://github.com/MadhanBabuUradi/shopping-hub-fronte
 npm install
 ```
 ▶️ **Run the Application**
+```bash
 npm start
-
+```
 🧪 **Build for Production**
+```bash
 npm run build
-
+```
 📌 **Future Enhancements**
 - 🔗 Backend integration using Spring Boot
 - 🔐 User authentication and authorization
