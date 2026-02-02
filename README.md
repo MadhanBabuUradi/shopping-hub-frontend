@@ -26,8 +26,9 @@ git clone https://github.com/MadhanBabuUradi/shopping-hub-frontend.git
 cd shopping-hub-frontend](https://github.com/MadhanBabuUradi/shopping-hub-frontend.git
 ```
 📦 **Installation**
+```bash
 npm install
-
+```
 ▶️ **Run the Application**
 npm start
 
