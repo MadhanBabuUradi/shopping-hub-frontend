@@ -13,6 +13,7 @@ Focuses on clean UI design, smooth user experience, and scalable frontend archit
 - 📱 Fully responsive and user-friendly design
 
 🛠️ **Tech Stack**
+
 - ⚛️ React.js
 - 🧠 JavaScript (ES6+)
 - 🎨 CSS
