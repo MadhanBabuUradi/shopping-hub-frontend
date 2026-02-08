@@ -14,15 +14,11 @@ Focuses on clean UI design, smooth user experience, and scalable frontend archit
 
 🛠️ **Tech Stack**
 
-⚛️ React.js. 
-🧠 JavaScript (ES6+)
-
-🎨 CSS
-
-🪝 React Hooks
-
-🌐 Context API 
-
+⚛️ React.js  
+🧠 JavaScript (ES6+)  
+🎨 CSS  
+🪝 React Hooks  
+🌐 Context API
 🧭 React Router 
 
 📥 **Clone the Repository**
