@@ -4,13 +4,13 @@ Focuses on clean UI design, smooth user experience, and scalable frontend archit
 
 🚀 **Features**
 
-- 🛒 Product listing with categories and search. 
-- ⭐ Featured products and promotional sections. 
-- ➕➖ Shopping cart with quantity management
-- 📦 Cart dropdown and checkout summary
-- 👤 Account dashboard UI
-- 🔔 Notifications and loading skeletons
-- 📱 Fully responsive and user-friendly design
+🛒 Product listing with categories and search.  
+⭐ Featured products and promotional sections.  
+➕➖ Shopping cart with quantity management.  
+📦 Cart dropdown and checkout summary.  
+👤 Account dashboard UI.  
+🔔 Notifications and loading skeletons.  
+📱 Fully responsive and user-friendly design.  
 
 🛠️ **Tech Stack**
 
