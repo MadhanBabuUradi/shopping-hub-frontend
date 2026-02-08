@@ -18,7 +18,7 @@ Focuses on clean UI design, smooth user experience, and scalable frontend archit
 🧠 JavaScript (ES6+)  
 🎨 CSS  
 🪝 React Hooks  
-🌐 Context API 
+🌐 Context API  
 🧭 React Router 
 
 
