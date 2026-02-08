@@ -3,8 +3,8 @@ A modern and responsive e-commerce frontend application built with React.js.
 Focuses on clean UI design, smooth user experience, and scalable frontend architecture.
 
 🚀 **Features**
-- 🛒 Product listing with categories and search
-- ⭐ Featured products and promotional sections
+🛒 Product listing with categories and search.
+⭐ Featured products and promotional sections.
 - ➕➖ Shopping cart with quantity management
 - 📦 Cart dropdown and checkout summary
 - 👤 Account dashboard UI
