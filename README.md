@@ -2,7 +2,7 @@
 A modern and responsive e-commerce frontend application built with React.js.  
 Focuses on clean UI design, smooth user experience, and scalable frontend architecture.
 
-🚀 **Features**
+<h3>🚀 Features</h3>
 
 🛒 Product listing with categories and search.  
 ⭐ Featured products and promotional sections.  
@@ -12,7 +12,7 @@ Focuses on clean UI design, smooth user experience, and scalable frontend archit
 🔔 Notifications and loading skeletons.  
 📱 Fully responsive and user-friendly design.  
 
-<h3>🛠️ **Tech Stack**</h3>
+<h3>🛠️ Tech Stack</h3>
 
 ⚛️ React.js  
 🧠 JavaScript (ES6+)  
