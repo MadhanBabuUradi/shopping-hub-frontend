@@ -12,7 +12,7 @@ Focuses on clean UI design, smooth user experience, and scalable frontend archit
 🔔 Notifications and loading skeletons.  
 📱 Fully responsive and user-friendly design.  
 
-🛠️ **Tech Stack**
+<h3>🛠️ **Tech Stack**</h3>
 
 ⚛️ React.js  
 🧠 JavaScript (ES6+)  
