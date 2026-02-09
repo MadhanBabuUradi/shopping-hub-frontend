@@ -39,8 +39,8 @@ npm start
 ```bash
 npm run build
 ```
-📌 **Future Enhancements**
-- 🔗 Backend integration using Spring Boot
+📌 **Future Enhancements**  
+🔗 Backend integration using Spring Boot  
 - 🔐 User authentication and authorization
 - 💾 Persistent cart using database
 - 📑 Order management system
