@@ -42,7 +42,7 @@ npm run build
 📌 **Future Enhancements**  
 🔗 Backend integration using Spring Boot  
 🔐 User authentication and authorization  
-- 💾 Persistent cart using database
+💾 Persistent cart using database  
 - 📑 Order management system
 - 💳 Payment gateway integration
 
