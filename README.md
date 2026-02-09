@@ -44,7 +44,7 @@ npm run build
 🔐 User authentication and authorization  
 💾 Persistent cart using database  
 📑 Order management system  
-- 💳 Payment gateway integration
+💳 Payment gateway integration  
 
 
 🎨 **Acknowledgements**  
