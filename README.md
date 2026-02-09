@@ -43,7 +43,7 @@ npm run build
 🔗 Backend integration using Spring Boot  
 🔐 User authentication and authorization  
 💾 Persistent cart using database  
-- 📑 Order management system
+📑 Order management system  
 - 💳 Payment gateway integration
 
 
