@@ -40,6 +40,7 @@ npm start
 npm run build
 ```
 <h3>📌 Future Enhancements</h3>  
+
 🔗 Backend integration using Spring Boot  
 🔐 User authentication and authorization  
 💾 Persistent cart using database  
